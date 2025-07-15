@@ -26,3 +26,5 @@ This project analyzes the iTunes music store data using SQL and visualizes key i
 
 ## 🌐 Tableau Public
 https://public.tableau.com/app/profile/ishan4560/viz/iTuneanalysis/CustomerOverview
+
+#Labmentix @Labmentix
